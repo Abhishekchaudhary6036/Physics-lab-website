@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```
-git clone https://github.com/aashish157/Physics-Lab-Website.git
+git clone https://github.com/Abhishekchaudhary6036/Physics-lab-website.git
 ```
 
 
@@ -49,7 +49,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## Authors
 
-* **Aashish Raj Gupta** - [github](https://github.com/aashish157) - [linkedin](https://www.linkedin.com/in/aashish157)
+* *Abhishek Singh** - [github](https://github.com/Abhishekchaudhary6036) - [linkedin](https://www.linkedin.com/in/aashish157)
 
 
 
