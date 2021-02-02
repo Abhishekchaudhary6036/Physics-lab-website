@@ -49,7 +49,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## Authors
 
-* *Abhishek Singh** - [github](https://github.com/Abhishekchaudhary6036) - [linkedin](https://www.linkedin.com/in/aashish157)
+* *Abhishek Singh ** - [github](https://github.com/Abhishekchaudhary6036) - [linkedin](https://www.linkedin.com/in/aashish157)
 
 
 
